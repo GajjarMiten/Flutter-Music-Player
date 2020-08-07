@@ -1,6 +1,6 @@
-# mantra
+# Mantra
 
-A new Flutter project.
+currently this app is in development😄
 
 ## Getting Started
 
